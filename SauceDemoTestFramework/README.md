@@ -113,7 +113,7 @@ dotnet test --filter "Login_WithValidStandardUser_ShouldSucceed"
 - **Windows**: Double-click `run-tests.bat`
 - **Linux/macOS**: Run `./run-tests.sh`
 
-## 🧪 Test Scenarios
+##  Test Scenarios
 
 ### Login Tests
 -  Valid user login (Standard, Problem, Performance Glitch users)
@@ -204,7 +204,7 @@ Contains:
 - **Videos**: `videos/` directory (if enabled)
 - **Traces**: `traces/` directory (if enabled)
 
-## 🛠️ Framework Features
+## Framework Features
 
 ### Code Design
 - **Clean Structure**: Well-organized, modular architecture
