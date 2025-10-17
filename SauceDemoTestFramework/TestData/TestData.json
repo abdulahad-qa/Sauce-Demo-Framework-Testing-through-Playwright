@@ -1,0 +1,66 @@
+{
+  "Products": [
+    {
+      "Name": "Sauce Labs Backpack",
+      "Price": "$29.99",
+      "Description": "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection."
+    },
+    {
+      "Name": "Sauce Labs Bike Light",
+      "Price": "$9.99",
+      "Description": "A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included."
+    },
+    {
+      "Name": "Sauce Labs Bolt T-Shirt",
+      "Price": "$15.99",
+      "Description": "Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt."
+    },
+    {
+      "Name": "Sauce Labs Fleece Jacket",
+      "Price": "$49.99",
+      "Description": "It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office."
+    },
+    {
+      "Name": "Sauce Labs Onesie",
+      "Price": "$7.99",
+      "Description": "Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel."
+    },
+    {
+      "Name": "Test.allTheThings() T-Shirt (Red)",
+      "Price": "$15.99",
+      "Description": "This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton."
+    }
+  ],
+  "CustomerInfo": [
+    {
+      "FirstName": "John",
+      "LastName": "Doe",
+      "PostalCode": "12345"
+    },
+    {
+      "FirstName": "Jane",
+      "LastName": "Smith",
+      "PostalCode": "54321"
+    },
+    {
+      "FirstName": "Test",
+      "LastName": "User",
+      "PostalCode": "99999"
+    }
+  ],
+  "SortOptions": [
+    "Name (A to Z)",
+    "Name (Z to A)",
+    "Price (low to high)",
+    "Price (high to low)"
+  ],
+  "ErrorMessages": {
+    "LoginRequired": "Epic sadface: Username is required",
+    "PasswordRequired": "Epic sadface: Password is required",
+    "InvalidCredentials": "Epic sadface: Username and password do not match any user in this service",
+    "LockedOutUser": "Epic sadface: Sorry, this user has been locked out.",
+    "CheckoutFirstNameRequired": "Error: First Name is required",
+    "CheckoutLastNameRequired": "Error: Last Name is required",
+    "CheckoutPostalCodeRequired": "Error: Postal Code is required"
+  }
+}
