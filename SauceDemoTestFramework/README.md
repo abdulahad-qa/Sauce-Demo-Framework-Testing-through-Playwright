@@ -306,7 +306,7 @@ To extend the framework:
 3. Create new test classes in `Tests/`
 4. Update configuration in `appsettings.json`
 
-## 🏆 Framework Achievements
+## Framework Achievements
 
 This framework demonstrates:
 -  **100% Test Coverage** of SauceDemo functionality
